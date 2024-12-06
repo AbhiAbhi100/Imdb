@@ -3,12 +3,3 @@
 @tailwind utilities;
 
 
-body {
-  background-color: white; /* Default light mode background */
-  transition: background-color 0.3s;
-}
-
-body.dark {
-  background-color: black;
-  color: white;
-}
