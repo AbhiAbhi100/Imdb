@@ -21,7 +21,7 @@ const Header = () => {
       <Link href={'/'} className='flex gap-1 items-center'>
 
       <span className='text-2xl font-bold bg-amber-600 py-1 px-2 rounded-lg '>IMDb</span>
-      <span className='text-xl hidden sm:inline'>Clone</span>
+      <span className='text-xl hidden sm:inline'>Web</span>
       </Link>
       </div>
 
