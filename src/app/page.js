@@ -36,7 +36,7 @@ export default async  function Home({searchParams}) {
 
   const results = data.results;
 
-  
+  console.log(results);
 
   return (
     <div >
